@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etut_Trigger", "Etut_Trigger\Etut_Trigger.csproj", "{BEED0222-0058-45F1-9D26-3A44A5F6AE73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEED0222-0058-45F1-9D26-3A44A5F6AE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEED0222-0058-45F1-9D26-3A44A5F6AE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEED0222-0058-45F1-9D26-3A44A5F6AE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEED0222-0058-45F1-9D26-3A44A5F6AE73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D460A11-A2AE-4431-8817-F6F8D80968C7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\lenovopc\source\repos\Etut_Trigger\Etut_Trigger\bin\Debug\Etut_Trigger.exe.config
+C:\Users\lenovopc\source\repos\Etut_Trigger\Etut_Trigger\bin\Debug\Etut_Trigger.exe
+C:\Users\lenovopc\source\repos\Etut_Trigger\Etut_Trigger\bin\Debug\Etut_Trigger.pdb
+C:\Users\lenovopc\source\repos\Etut_Trigger\Etut_Trigger\obj\Debug\Etut_Trigger.csproj.AssemblyReference.cache
+C:\Users\lenovopc\source\repos\Etut_Trigger\Etut_Trigger\obj\Debug\Etut_Trigger.Form1.resources
+C:\Users\lenovopc\source\repos\Etut_Trigger\Etut_Trigger\obj\Debug\Etut_Trigger.Properties.Resources.resources
+C:\Users\lenovopc\source\repos\Etut_Trigger\Etut_Trigger\obj\Debug\Etut_Trigger.csproj.GenerateResource.cache
+C:\Users\lenovopc\source\repos\Etut_Trigger\Etut_Trigger\obj\Debug\Etut_Trigger.csproj.CoreCompileInputs.cache
+C:\Users\lenovopc\source\repos\Etut_Trigger\Etut_Trigger\obj\Debug\Etut_Trigger.exe
+C:\Users\lenovopc\source\repos\Etut_Trigger\Etut_Trigger\obj\Debug\Etut_Trigger.pdb
